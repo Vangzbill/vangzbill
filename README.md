@@ -1,5 +1,4 @@
 ### Hi there, I'm Vangzbill👋
-I'm just a student
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=riVFerd&count_private=true&theme=tokyonight&showicons=true)]()			
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=riVFerd&langs_count=5&theme=tokyonight)]()
 <!--
