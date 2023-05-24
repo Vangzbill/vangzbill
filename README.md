@@ -1,6 +1,4 @@
 ### Hi there, I'm Vangzbill👋
-[![Statistik GitHub Saya](https://github-readme-stats.vercel.app/api/?username=Vangzbill&count_private=true&theme=tokyonight&show_icons=true)]()
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Vangzbill&layout=compact&theme=tokyonight)]()
 
 
 <!--
