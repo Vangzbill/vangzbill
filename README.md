@@ -1,7 +1,7 @@
 [![MasterHead](https://github.com/Vangzbill/vangzbill/blob/main/Header%20github.png)](https://Vangzbill.io)
 <h1 align="center">Hi 👋, I'm Sabilla Luthfi Rahmadhan</h1>
 <h3 align="center">Fullstack developer with expertise in Laravel, Go, and modern JavaScript frameworks, experienced in building scalable APIs and responsive web applications to drive efficiency and user engagement.</h3>
-<img alt="Coding" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.syngotech.com%2F&psig=AOvVaw0Ov8wNHYqlS3_O2aJ-qmSW&ust=1741833135070000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCPifyZ3Ag4wDFQAAAAAdAAAAABAJ" align="right" width="230">
+<img alt="Coding" src="https://tenor.com/cpkDCOjSAyu.gif" align="right" width="230">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vangzbill&label=Profile%20views&color=0e75b6&style=flat" alt="vangzbill" /> </p>
 
