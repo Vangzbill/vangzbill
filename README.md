@@ -32,6 +32,7 @@ Also: SQL Server, RESTful API design, Bootstrap, Tailwind.
 | Project | What it is | Stack |
 |---|---|---|
 | [Portfolio](https://sabillaluthfi.vercel.app) | Personal site | Next.js |
+| Ledgerly | Private Financial Management Record | Next.js |
 | Grovs	| Web platform for learning Javanese and Aksara	| Next.js |
 | Omah Basa | Web platform for learning Javanese, with a seeded vocabulary database |	Laravel, MySQL |
 | NutriCall	| Nutrition tracker Backend |	Python |
