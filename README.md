@@ -14,7 +14,7 @@
 
 ### About me
 
-- 💼 System Engineer at **PT Bosnet Distribution Indonesia**. I work on a Distribution Management System (DMS) used by FMCG distributors: sales, cashier, master data, and approval modules, plus backend APIs.
+- 💼 Software Developer at **PT Bosnet Distribution Indonesia**. I work on a Distribution Management System (DMS) used by FMCG distributors: sales, cashier, master data, and approval modules, plus backend APIs.
 - 🛰️ Before that, Fullstack Web Developer at **PT Telkom Satelit Indonesia** (intern → contract). Received an MVP award there.
 - 🎓 D4 Informatics Engineering, Politeknik Negeri Malang (GPA 3.85).
 - 📍 Bogor, Indonesia.
